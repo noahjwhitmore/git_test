@@ -1,1 +1,1 @@
-This is Noah's fir git project!
+This is Noah's first git project! Very nice!
